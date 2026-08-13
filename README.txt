@@ -1,0 +1,1 @@
+Protótipo interativo FGC. Site estático: envie a pasta para GitHub e importe o repositório na Vercel. Não requer build command.
